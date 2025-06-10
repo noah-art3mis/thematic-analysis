@@ -59,18 +59,14 @@ def trafilate(url, counter):
 def main():
     os.makedirs('output', exist_ok=True)
     
-    counter = 0
     for counter, url in enumerate(URLS, 1):
-        
-        trafilate(url, counter)
-        
-        # try:
-        #     trafilate(url, counter)
-        # except Exception as e:
-        #     print(f'Error in item {counter}: {e}')
+        try:
+            trafilate(url, counter)
+        except Exception as e:
+            print(f'Error in item {counter}: {e}')
             
-        #     with open('output/errors.log', 'a') as log:
-        #         log.write(f"Item {counter} ({url}) failed: {e}\n")
+            with open('output/errors.log', 'a') as log:
+                log.write(f"Item {counter} ({url}) failed: {e}\n")
             
 if __name__ == "__main__":
     main()

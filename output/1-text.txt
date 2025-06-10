@@ -1,0 +1,103 @@
+AI slop - Wikipedia
+
+None
+
+AI slop
+"AI slop", often simply "slop", is a term for low-quality media, including writing and images, made using generative artificial intelligence technology, characterized by an inherent lack of effort, logic, or purpose.[1][4][5] Coined in the 2020s, the term has a pejorative connotation akin to "spam".[4]
+It has been variously defined as "digital clutter", "filler content produced by AI tools that prioritize speed and quantity over substance and quality",[6] and "shoddy or unwanted AI content in social media, art, books and, increasingly, in search results".[7]
+Jonathan Gilmore, a philosophy professor at the City University of New York, describes the "incredibly banal, realistic style" of AI slop as being "very easy to process".[8]
+Origin of the term
+[edit]As early large language models (LLMs) and image diffusion models accelerated the creation of high-volume but low-quality written content and images, discussion commenced among journalists and on social platforms for the appropriate term for the influx of material. Terms proposed included "AI garbage", "AI pollution", and "AI-generated dross".[5] Early uses of the term "slop" as a descriptor for low-grade AI material apparently came in reaction to the release of AI image generators in 2022. Its early use has been noted among 4chan, Hacker News, and YouTube commentators as a form of in-group slang.[7]
+The British computer programmer Simon Willison is credited with being an early champion of the term "slop" in the mainstream,[1][7] having used it on his personal blog in May 2024.[9] However, he has said it was in use long before he began pushing for the term.[7]
+The term gained increased popularity in the second quarter of 2024 in part because of Google's use of its Gemini AI model to generate responses to search queries,[7] and was widely criticized in media headlines during the fourth quarter of 2024.[1][4]
+On social media
+[edit]AI image and video slop proliferated on social media in part because it was revenue-generating for its creators on Facebook and TikTok, with the issue affecting Facebook most notably. This incentivizes individuals from developing countries to create images that appeal to audiences in the United States which attract higher advertising rates.[10][11][12]
+The journalist Jason Koebler speculated that the bizarre nature of some of the content may be due to the creators using Hindi, Urdu, and Vietnamese prompts (languages which are underrepresented in the model's training data), or using erratic speech-to-text methods to translate their intentions into English.[10]
+Speaking to New York magazine, a Kenyan creator of slop images described giving ChatGPT prompts such as "WRITE ME 10 PROMPT picture OF JESUS WHICH WILLING BRING HIGH ENGAGEMENT ON FACEBOOK [sic]", and then feeding those created prompts into a text-to-image AI service such as Midjourney.[4]
+In politics
+[edit]The examples and perspective in this section deal primarily with the United States and do not represent a worldwide view of the subject. (April 2025) |
+In August 2024, The Atlantic noted that AI slop was becoming associated with the political right in the United States, who were using it for shitposting and engagement farming on social media, with the technology offering "cheap, fast, on-demand fodder for content".[13]
+AI slop is frequently used in political campaigns in an attempt at gaining attention through content farming.[14] In August 2024, Donald Trump posted a series of AI-generated images on his social media platform, Truth Social, that portrayed fans of the singer Taylor Swift in "Swifties for Trump" T-shirts, as well as a photo of the singer herself appearing to endorse Trump's 2024 presidential campaign. The images originated from the conservative Twitter account @amuse, which posted numerous AI slop images leading up to the 2024 United States elections that were shared by other high-profile figures within the US Republican Party, such as Elon Musk, who has publicly endorsed the utilization of generative AI, furthering this association.[15]
+In the aftermath of Hurricane Helene in the United States, members of the Republican Party circulated an AI-generated image of a young girl holding a puppy in a flood, and used it as evidence of the failure of President Joe Biden to respond to the disaster.[16][3] Some, like Trump supporter Amy Kremer, shared the image on social media even while acknowledging that it was not genuine.[17][18]
+In advertising
+[edit]In November 2024, Coca-Cola used artificial intelligence to create three commercials as part of their annual holiday campaign. These videos were immediately met with negative reception from both casual viewers and artists;[19] the animator Alex Hirsch, the creator of Gravity Falls, criticized the company's decision not to employ human artists to create the commercial.[20] In response to the negative feedback, the company defended their decision to use generative artificial intelligence stating that "Coca-Cola will always remain dedicated to creating the highest level of work at the intersection of human creativity and technology".[21]
+In March 2025, Paramount Pictures was criticized for using AI scripting and narration in an Instagram video promoting the film Novocaine.[22] The ad uses a robotic AI voice in a style similar to low-quality AI spam videos produced by content farms. A24 received similar backlash for releasing a series of AI-generated posters for the 2024 film Civil War. One poster appears to depict a group of soldiers in a tank-like raft preparing to fire on a large swan, an image which does not resemble the events of the film.[23][24]
+In the same month, Activision posted various advertisements and posters for fake video games such as "Guitar Hero Mobile", "Crash Bandicoot: Brawl", and "Call of Duty: Zombie Defender" that were all made using generative AI on platforms such as Facebook and Instagram, which many labelled as AI slop.[25] The intention of the posts was later stated to act as a survey for interest in possible titles by the company.[26] The Italian brainrot AI trend was widely adopted by advertisers to adjust well to younger audiences.[27]
+In event listings
+[edit]Fantastical promotional graphics for the 2024 Willy's Chocolate Experience event, characterized as "AI-generated slop",[28] misled audiences into attending an event that was held in a lightly decorated warehouse. Tickets were marketed through Facebook advertisements showing AI-generated imagery, with no genuine photographs of the venue.[29]
+In October 2024, thousands of people were reported to have assembled for a non-existent Halloween parade in Dublin as a result of a listing on an aggregation listings website, MySpiritHalloween.com, which used AI-generated content.[30][31] The listing went viral on TikTok and Instagram.[32] While a similar parade had been held in Galway, and Dublin had hosted parades in prior years, there was no parade in Dublin in 2024.[31] One analyst characterized the website, which appeared to use AI-generated staff pictures, as likely using artificial intelligence "to create content quickly and cheaply where opportunities are found".[33] The site's owner said that "We asked ChatGPT to write the article for us, but it wasn't ChatGPT by itself." In the past the site had removed non-existent events when contacted by their venues, but in the case of the Dublin parade the site owner said that "no one reported that this one wasn't going to happen". MySpiritHalloween.com updated their page to say that the parade had been "canceled" when they became aware of the issue.[34]
+In books
+[edit]Online booksellers and library vendors now have many titles that are written by AI and are not curated into collections by librarians. The digital media provider Hoopla, which supplies libraries with ebooks and downloadable content, has generative AI books with fictional authors and dubious quality, which cost libraries money when checked out by unsuspecting patrons.[35]
+In video games
+[edit]The 2024 video game Call of Duty: Black Ops 6 includes assets generated by artificial intelligence. Since the game's initial release, many players had accused Treyarch and Raven Software of using AI to create in-game assets, including loading screens, emblems, and calling cards. A particular example was a loading screen for the zombies game mode that depicted "Necroclaus", a zombified Santa Claus with six fingers on one hand, an image which also had other irregularities.[36] The previous entry in the Call of Duty franchise was also accused of selling AI-generated cosmetics.[37]
+In February 2025, Activision disclosed Black Ops 6's usage of generative artificial intelligence to comply with Valve's policies on AI-generated or assisted products on Steam. Activision states on the game's product page on Steam that "Our team uses generative AI tools to help develop some in game assets."[38]
+Foamstars, a multiplayer third-person shooter released by Square Enix in 2024, features in-game music with cover art that was generated using Midjourney. Square Enix confirmed the use of AI, but defended the decision, saying that they wanted to "experiment" with artificial intelligence technologies and claiming that the generated assets make up "about 0.01% or even less" of game content.[39][40][41] Previously, on January 1, 2024, Square Enix president Takashi Kiryu stated in a new year letter that the company will be "aggressive in applying AI and other cutting-edge technologies to both [their] content development and [their] publishing functions".[42][43]
+In 2024, Rovio Entertainment released a demo of a mobile game called Angry Birds: Block Quest on Android. The game featured AI-generated images for loading screens and backgrounds.[44] It was heavily criticized by players, who called it shovelware and disapproved of Rovio's use of AI images.[45][46] It was eventually discontinued and removed from the Play Store.
+In film and television
+[edit]Some films have received backlash for including AI-generated content. The film Late Night with the Devil was notable for its use of AI, which some criticized as being AI slop.[47][48] Several low-quality AI-generated images were used as interstitial title cards, with one image featuring a skeleton with inaccurate bone structure and poorly-generated fingers that appear disconnected from its hands.[49]
+Some streaming services such as Amazon Prime Video have used AI to generate posters and thumbnail images in a manner that can be described as slop. A low-quality AI poster was used for the 1922 film Nosferatu, depicting Count Orlok in a way that does not resemble his look in the film.[50] A thumbnail image for 12 Angry Men on Amazon Freevee used AI to depict 19 men with smudged faces, none of whom appeared to bear any similarities to the characters in the film.[51][52] Additionally, some viewers have noticed that many plot descriptions appear to be generated by AI, which some people have characterized as slop. One synopsis briefly listed on the site for the film Dog Day Afternoon read: "A man takes hostages at a bank in Brooklyn. Unfortunately I do not have enough information to summarize further within the provided guidelines."[53]
+In one case Deutsche Telekom removed a series from their media offer after viewers complained about the bad quality and monotonous German voice dubbing (translated from original Polish) and it was found out that it was done via AI.[54]
+See also
+[edit]- AI boom – Ongoing period of rapid progress in AI
+- Content farm – Organizations that mass produce content
+- Dead Internet theory – Conspiracy theory on online bot activity
+- Elsagate – Controversy concerning a genre of YouTube videos
+- Enshittification – Systematic decline in online platform quality
+- Hallucination (artificial intelligence) – Erroneous material generated by AI
+- Italian brainrot – 2025 Internet meme
+- Low culture – Term for forms of popular culture with mass appeal
+References
+[edit]- ^ a b c d Hern, Alex; Milmo, Dan (19 May 2024). "Spam, junk ... slop? The latest wave of AI behind the 'zombie internet'". The Guardian. Retrieved 28 September 2024.
+- ^ Notopoulos, Katie. "Why doesn't Facebook just ban AI slop like Shrimp Jesus?". Business Insider. Retrieved 4 October 2024.
+- ^ a b Field, Matthew (1 January 2025). "Why the internet is filling up with nonsense 'AI slop'". The Telegraph. Retrieved 3 January 2025.
+- ^ a b c d e Read, Max (25 September 2024). "Drowning in Slop". Intelligencer. Retrieved 28 September 2024.
+- ^ a b "How Long Will A.I.'s 'Slop' Era Last?". The New York Times. 24 July 2024.
+- ^ Hughes, Johnny (3 September 2024). "How Businesses Can Avoid AI Slop". Entrepreneur. Retrieved 28 September 2024.
+- ^ a b c d e "First Came 'Spam.' Now, With A.I., We've Got 'Slop'". The New York Times. 11 June 2024.
+- ^ "The deluge of bonkers AI art is literally surreal". Washington Post. 30 June 2024. Retrieved 29 September 2024.
+- ^ "Slop is the new name for unwanted AI-generated content". simonwillison.net. Retrieved 4 October 2024.
+- ^ a b Koebler, Jason (6 August 2024). "Where Facebook's AI Slop Comes From". 404 Media. Retrieved 29 September 2024.
+- ^ Tang, Jiaru; Wikström, Patrik (19 September 2024). "'Side job, self-employed, high-paid': behind the AI slop flooding TikTok and Facebook". The Conversation. Retrieved 29 September 2024.
+- ^ Gault, Matthew (7 August 2024). "Facebook's Twisted Incentives Created Its AI Slop Era". Gizmodo. Retrieved 29 September 2024.
+- ^ Warzel, Charlie (21 August 2024). "The MAGA Aesthetic Is AI Slop". The Atlantic. Retrieved 29 September 2024.
+- ^ Warzel, Charlie (21 October 2024). "The Slop Candidate". The Atlantic. Retrieved 23 March 2025.
+- ^ Robins-Early, Nick (26 August 2024). "How did Donald Trump end up posting Taylor Swift deepfakes?". The Guardian. Retrieved 23 March 2025.
+- ^ "Gullible Trump Cronies Losing Their Minds Over Fake AI Slop on Twitter". Yahoo News. 4 October 2024. Retrieved 6 October 2024.
+- ^ Koebler, Jason (8 October 2024). "Hurricane Helene and the 'Fuck It' Era of AI-Generated Slop". 404 Media. Retrieved 15 October 2024.
+- ^ Warzel, Charlie (10 October 2024). "I'M RUNNING OUT OF WAYS TO EXPLAIN HOW BAD THIS IS". The Atlantic. Retrieved 15 October 2024.
+- ^ Stedman, Alex (16 November 2024). "Coca-Cola's New AI-Generated Holiday Ad Slammed as 'Soulless' and 'Embarrassing': 'This Is Such Slop'". IGN. Retrieved 5 January 2025.
+- ^ "Coca-Cola causes controversy with AI-generated ad". NBC News. 18 November 2024. Retrieved 5 January 2025.
+- ^ Vadukul, Alex (20 November 2024). "Coca-Cola's Holiday Ads Trade the 'Real Thing' for Generative A.I." The New York Times. Retrieved 5 January 2025.
+- ^ "Paramount skips voice actors, opting for shockingly bad AI slop in 'Novocaine' film promo". TweakTown. 10 March 2025. Retrieved 24 March 2025.
+- ^ Maker, Paul (9 January 2025). "AI slop: what Labour, Spotify and Coca-Cola can teach us in 2025". Raconteur. Retrieved 24 March 2025.
+- ^ Shankar, Bradly (18 April 2024). "A24's lacklustre Civil War ads are the latest example of AI-generated slop". MobileSyrup. Retrieved 24 March 2025.
+- ^ Phillips, Tom (3 March 2025). "Activision accused of "AI slop" yet again, this time for new Guitar Hero". Eurogamer.net. Retrieved 27 March 2025.
+- ^ Phillips, Tom (4 March 2025). "Activision "AI slop" Guitar Hero advert is market research for a fake game that doesn't exist and maybe never will". Eurogamer.net. Retrieved 27 March 2025.
+- ^ "Why Brands Are Embracing 'Italian Brainrot' to Go Viral on TikTok and Win Over Gen Z". News 10 ABC. 15 April 2025.
+- ^ Currie, Richard (28 February 2024). "Willy Wonka event leaves bitter taste with artificially sweetened promises". The Register. Retrieved 4 November 2024.
+- ^ Murphy, Chris (29 February 2024). ""Willy's Chocolate Experience" Nightmare: What Went Wrong?". Vanity Fair. Retrieved 4 November 2024.
+- ^ Davis, Barney (1 November 2024). "Chaos in Dublin as thousands turn up for AI 'hoax' Halloween parade that didn't exist". The Independent. Retrieved 1 November 2024.
+- ^ a b "All Trick, No Treat: Dublin Crowds Turn Up for Halloween Parade That Wasn't". The New York Times. 1 November 2024.
+- ^ Fleck, Holly (2 November 2024). "Dublin: Halloween parade listing 'mistake' says website owner". BBC News. Retrieved 14 November 2024.
+- ^ O'Shea, Kerry (31 October 2024). "All trick no treat - "Hoax" Halloween parade draws big crowds to Dublin's O'Connell St". IrishCentral.com. Retrieved 1 November 2024.
+- ^ Knibbs, Kate. "The Guy Behind the Fake AI Halloween Parade Listing Says You've Got It All Wrong". Wired. ISSN 1059-1028. Retrieved 3 November 2024.
+- ^ Maiberg, Emanuel (4 February 2025). "AI-Generated Slop Is Already In Your Public Library". 404 Media. Retrieved 6 February 2025.
+- ^ Yin-Poole, Wesley (9 December 2024). "Call of Duty Fans Give Black Ops 6's Zombie Santa Loading Screen the Finger Amid 'AI Slop' Backlash". IGN. Retrieved 26 February 2025.
+- ^ Yin-Poole, Wesley (24 July 2024). "Activision Reportedly Sold an AI-Generated Call of Duty: Modern Warfare 3 Cosmetic". IGN. Retrieved 26 February 2025.
+- ^ "Call Of Duty Discloses AI Slop After Months Of Players Complaining". Kotaku. 25 February 2025. Retrieved 26 February 2025.
+- ^ "PlayStation Exclusive Foamstars Has AI-Generated Art, Square Enix Confirms". IGN. 16 January 2024. Retrieved 31 March 2025.
+- ^ "Square Enix "dabbled" with AI technology for Foamstars". Eurogamer.net. 16 January 2024. Retrieved 31 March 2025.
+- ^ Parrish, Ash (16 January 2024). "Square Enix says it used AI art in upcoming Foamstars game". The Verge. Retrieved 31 March 2025.
+- ^ Bankhurst, Adam (1 January 2024). "Square Enix President States the Company Will Be 'Aggressive in Applying AI'". IGN. Retrieved 24 April 2025.
+- ^ Nightingale, Ed Nightingale (Deputy News) (2 January 2024). "Square Enix intends to be "aggressive in applying AI", says CEO". Eurogamer.net. Retrieved 24 April 2025.
+- ^ Kalita, Parash Jyoti (1 November 2024). "Angry Birds Block Quest: Rovio's latest title in the franchise has soft-launched for Android in the US". GamingonPhone. Retrieved 9 May 2025.
+- ^ "Angry Birds Block Quest Soft Launches on Android, Sparking Debate Over Generative AI Content -". mxdwn Games. 2 November 2024. Retrieved 9 May 2025.
+- ^ "Angry Birds Block Quest - Soft launch for Android in the US". 1 November 2024. Retrieved 9 May 2025.
+- ^ "Shudder Just Quietly Released the Most Controversial Thriller of the Year". Inverse. 19 April 2024. Retrieved 24 March 2025.
+- ^ "Late Night with the Devil: The Horror Film with Horrifying Implications". Shadow Magazine. 20 November 2024. Retrieved 24 March 2025.
+- ^ Hüsmen, Arife (November 2024). "AI in the Creative Industries: Strikes, Debates and Implications". 20th International Symposium of Communication in the Millennium: 193–199 – via ResearchGate.
+- ^ "Amazon Mocked for Slapping AI-Generated Poster on Beloved 1922 Film "Nosferatu"". Futurism. 7 January 2025. Retrieved 24 March 2025.
+- ^ John, Daniel (12 June 2024). "Not even Amazon is safe from the rise of AI 'slop'". Creative Bloq. Retrieved 24 March 2025.
+- ^ "The mystery of Amazon Freevee's A.I.-generated 12 Angry Men poster". AV Club. Retrieved 24 March 2025.
+- ^ "Amazon's Prime Video Appears to Have Left AI Slop in the Public Description of an Oscar-Winning Al Pacino Film". Futurism. 19 February 2025. Retrieved 24 March 2025.
+- ^ "'Murderesses': MagentaTV entfernt Serie mit KI-Synchronisation". Heise Online (in German). 4 February 2025. Retrieved 25 April 2025.

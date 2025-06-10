@@ -1,0 +1,19 @@
+title: Spam, junk … slop? The latest wave of AI behind the ‘zombie internet’
+
+excerpt: Tech experts hope new term for carelessly automated AI webpages and images can illuminate its damaging impact
+
+author: Alex Hern; Dan Milmo
+
+hostname: theguardian.com
+
+date: 2024-05-19
+
+fingerprint: 2982139029800f2a
+
+source: https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet
+
+source-hostname: The Guardian
+
+categories: Technology
+
+tags: Artificial intelligence (AI),Technology,Computing,Internet,Social media,Facebook,Meta,Google,Nick Clegg,Digital media,Social networking

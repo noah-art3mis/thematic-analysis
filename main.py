@@ -1,10 +1,35 @@
 import os
 import json
+import time
 from trafilatura import fetch_url, extract
+from waybackpy import WaybackMachineCDXServerAPI
+from waybackpy.exceptions import NoCDXRecordFound
 
 with open("urls.json", "r") as f:
     websites = json.load(f)
 
+def get_archived_url(url: str) -> str:
+    try:
+        user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        cdx_api = WaybackMachineCDXServerAPI(url, user_agent)
+        
+        # Get snapshots and filter for valid ones
+        snapshots = list(cdx_api.snapshots())
+        if not snapshots:
+            print(f"No snapshots found for {url}, using original URL")
+            return url
+            
+        # Get the most recent valid snapshot
+        for snapshot in sorted(snapshots, key=lambda x: x.timestamp, reverse=True):
+            try:
+                return snapshot.archive_url
+            except (ValueError, AttributeError):
+                continue
+                
+        return url
+    except Exception as e:
+        print(f"Error getting archive for {url}: {str(e)}")
+        return url
 
 def trafilate(id: int, url: str) -> None:
 
@@ -18,7 +43,11 @@ def trafilate(id: int, url: str) -> None:
         print(f"{id}: files already exist, skipping")
         return
 
-    downloaded = fetch_url("https://archive.is/" + url)
+    # Get the archived URL
+    archived_url = get_archived_url(url)
+    print(f"{id}: Using archived URL: {archived_url}")
+    
+    downloaded = fetch_url(archived_url)
 
     if downloaded is None:
         raise Exception(f"Download failed on item {id}: {url}")
@@ -94,4 +123,4 @@ def main_unsafe():
 
 
 if __name__ == "__main__":
-    main_unsafe()
+    main()

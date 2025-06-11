@@ -1,10 +1,33 @@
 [project]
-name = "thematic-analysis"
+name = "taguetura"
 version = "0.1.0"
-description = "Add your description here"
+authors = [
+    { name = "noah-art3mis (Gustavo Araujo Costa)", email = "gustavo@arcos.org.br" },
+]
+description = "Get text from websites (through trafilatura) and format it in a convenient way for use in thematic analysis with Taguette."
 readme = "README.md"
 requires-python = ">=3.10"
+license = "MIT"
 dependencies = [
+    "altair>=5.5.0",
+    "bertopic>=0.17.0",
+    "flair>=0.15.1",
+    "gensim>=4.3.3",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "nbformat>=5.10.4",
+    "pandas>=2.3.0",
+    "pyarrow>=20.0.0",
+    "spacy>=3.8.7",
+    "textblob>=0.19.0",
     "trafilatura>=2.0.0",
     "waybackpy>=3.0.6",
 ]
+
+# [build-system]
+# requires = ["setuptools >= 77.0.3"]
+# build-backend = "setuptools.build_meta"
+
+# [tool.setuptools]
+# package-dir = { "" = "src" }
+# packages = ["taguetura"]
